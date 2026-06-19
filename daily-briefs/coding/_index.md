@@ -1,6 +1,6 @@
 # Daily Coding Brief Index
 
-마지막 업데이트: 2026-06-12
+마지막 업데이트: 2026-06-19
 
 ---
 
@@ -20,3 +20,16 @@
 **YouTube:**
 - `eSP7PLTXNy8` — Build a proactive agent workflow with Claude Code (Anthropic, Code w/ Claude 2026)
 - `tJVUAzLZUyI` — Claude Code Agent View: Parallel Agents Are Here (IndyDevDan)
+
+---
+
+### 2026-06-19
+
+**GitHub:**
+- https://github.com/Piebald-AI/claude-code-system-prompts
+- https://github.com/VoltAgent/awesome-claude-code-subagents
+- https://github.com/omnigent-ai/omnigent
+
+**YouTube:**
+- `cWB9tTeExgE` — Claude Code v2.1.172 — Agents that spawn agents (채널 미확인)
+- `uogzSxOw4LU` — The Ultimate Claude Code Guide | MCP, Skills & More (채널 미확인)
